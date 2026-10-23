@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nmansouri110
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning liquid shopify coding
+- 🌱 I’m currently learning React coding
 - 💞️ I’m looking to collaborate on special coding skills
 
 <!---
